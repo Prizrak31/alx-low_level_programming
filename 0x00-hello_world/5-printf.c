@@ -1,23 +1,13 @@
-#include <stdio.h>
+#include <stdio .h>
 
 /**
+ * main - A program that prints certain strings to the standard output
  *
- * * main - Prints a text
- *
- * *
- *
- * * Return: Always 0 (Success)
- *
- * */
+ * Return: Always 0 on success
+ */
 
 int main(void)
-	
 {
-
-printf("with proper grammar, but the outcome is a piece of
-		
-		art\n");
-
-return (0);
-
+	printf("with proper grammer, but the outcome is a piece of art,")
+	return (0);
 }
