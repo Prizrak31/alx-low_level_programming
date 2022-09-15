@@ -30,7 +30,7 @@ int main(void)
 
 
 
-		if (inc == 97)
+		if (inc == 98)
 
 			printf("\n");
 
